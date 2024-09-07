@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066925788602",
+    "project_id": "my-patient-d245f",
+    "storage_bucket": "my-patient-d245f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066925788602:android:1a9f28c2dc0ec97937a183",
+        "android_client_info": {
+          "package_name": "com.example.my_patient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Zd2oRIqaFM1oZmZQoI5gBosRXHzx98w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
